@@ -4,7 +4,6 @@
   "pub_date": "20250522T19:30:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
       "url": "https://github.com/GARHUG/G021_updater-test_pub/releases/latestupdater-test_0.1.1_x64-setup.exe.sig"
     }
   }
